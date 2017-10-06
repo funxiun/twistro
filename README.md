@@ -7,3 +7,5 @@ Music by 4Mat.
 
 Coded in assembler using 64TASS.
 Executable of the demo can be downloaded here: http://csdb.dk/release/?id=86690
+
+![alt text](http://csdb.dk/gfx/releases/86000/86690.gif)
